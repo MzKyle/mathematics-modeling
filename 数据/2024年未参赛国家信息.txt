@@ -1,0 +1,111 @@
+AHO (Netherlands Antilles)
+全称: 荷属安的列斯
+原因: 2010年荷属安的列斯解体，其成员国和地区（如库拉索岛、圣马丁岛）成为独立奥委会或荷兰的代表队成员。
+
+ANZ (Australasia)
+全称: 澳大拉西亚（澳大利亚和新西兰联合队）
+原因: 1908年和1912年联合参赛，之后澳大利亚和新西兰各自独立参加。
+
+BLR (Belarus)
+全称: 白俄罗斯
+原因: 因国际奥委会对俄罗斯和白俄罗斯的制裁，禁止两国以国家名义参赛。
+
+BOH (Bohemia)
+全称: 波希米亚
+原因: 波希米亚曾是奥匈帝国的一部分，1920年后成为捷克斯洛伐克的一部分，不再独立参赛。
+
+CRT (Crete)
+全称: 克里特
+原因: 克里特是希腊的一部分，未独立参赛。
+
+EUN (Unified Team)
+全称: 独联体联合队（前苏联国家联合参赛）
+原因: 1992年是唯一一次参赛，之后各前苏联国家以独立身份参赛。
+
+FRG (Federal Republic of Germany)
+全称: 德意志联邦共和国（西德）
+原因: 1990年德国统一后，以统一的德国（GER）参赛。
+
+GDR (German Democratic Republic)
+全称: 德意志民主共和国（东德）
+原因: 同上，1990年统一后以统一的德国（GER）参赛。
+
+IOA (Independent Olympic Athletes)
+全称: 独立奥运选手队
+原因: 此队伍为特定年份因国籍、政治或国际争端的个人选手设置，例如2012年、2016年，2024年未设此类队伍。
+
+LIB (Liberation Movements)
+全称: 解放运动代表队
+原因: 曾作为过渡性代表队，现不存在。
+
+MAL (Malaya)
+全称: 马来亚
+原因: 1963年与沙巴、砂拉越和新加坡组成马来西亚，以马来西亚（MAS）参赛。
+
+NBO (North Borneo)
+全称: 北婆罗洲
+原因: 1963年加入马来西亚，以马来西亚（MAS）参赛。
+
+NFL (Newfoundland)
+全称: 纽芬兰
+原因: 1949年成为加拿大的一部分，以加拿大（CAN）参赛。
+
+RHO (Rhodesia)
+全称: 罗德西亚
+原因: 独立后更名为津巴布韦，以津巴布韦（ZIM）参赛。
+
+ROC (Russian Olympic Committee)
+全称: 俄罗斯奥委会代表队
+原因: 由于国际奥委会的制裁，俄罗斯未以任何形式参赛。
+
+ROT (Refugee Olympic Team)
+全称: 难民奥运代表队
+原因: 只在特定年份（如2020年）设立，2024年未设此队伍。
+
+RUS (Russia)
+全称: 俄罗斯
+原因: 因国际奥委会的制裁，禁止俄罗斯以国家名义参赛。
+
+SAA (South Arabian Federation)
+全称: 南阿拉伯联邦
+原因: 联邦解体后成为也门，以也门（YEM）参赛。
+
+SCG (Serbia and Montenegro)
+全称: 塞尔维亚和黑山
+原因: 2006年解体后，以塞尔维亚（SRB）和黑山（MNE）独立参赛。
+
+TCH (Czechoslovakia)
+全称: 捷克斯洛伐克
+原因: 1993年解体后，以捷克（CZE）和斯洛伐克（SVK）独立参赛。
+
+UAR (United Arab Republic)
+全称: 阿拉伯联合共和国（埃及和叙利亚的联合体）
+原因: 解散后以埃及（EGY）和叙利亚（SYR）独立参赛。
+
+UNK (Unknown)
+全称: 未知队伍或代表身份
+原因: 此为临时代码，非正式国家队，2024年不存在。
+
+URS (Union of Soviet Socialist Republics)
+全称: 苏联
+原因: 1991年解体后，各加盟共和国独立参赛。
+
+VNM (Vietnam)
+全称: 越南
+原因: 当前代码为VIE，可能因代码变化未列入。
+
+WIF (West Indies Federation)
+全称: 西印度群岛联邦
+原因: 解散后，各成员国（如牙买加、巴巴多斯等）独立参赛。
+
+YAR (Yemen Arab Republic)
+全称: 也门阿拉伯共和国（北也门）
+原因: 1990年与南也门合并为也门（YEM）。
+
+YMD (Yemen Democratic Republic)
+全称: 也门民主共和国（南也门）
+原因: 同上，与北也门合并为也门（YEM）。
+
+YUG (Yugoslavia)
+全称: 南斯拉夫
+原因: 解体后形成多个独立国家（如塞尔维亚、克罗地亚等），独立参赛。

@@ -1,0 +1,15 @@
+\setlength{\tabcolsep}{4pt}   % Adjust column spacing
+\renewcommand{\arraystretch}{0.8} % Reduce row height
+\begin{tabular}{|c|l|c|l|}
+\hline
+\textbf{Symbol} & \textbf{Meaning} & \textbf{Symbol} & \textbf{Meaning} \\
+\hline
+\(C_t\) & Cell state & \(H_{t-1}\) & Previous hidden state \\
+\(x_t\) & Current input & \(W_{f/i/o}\) & Gate weights (forget/input/output) \\
+\(b_{f/i/o}\) & Gate biases (forget/input/output) & \(f_t\) & Forget gate output \\
+\(i_t\) & Input gate output & \(o_t\) & Output gate result \\
+\(C_{t-1}\) & Previous cell state & \(P\) & Projected results \\
+\(E_k\) & Mean square error & \(\eta\) & Learning rate \\
+\(CR\) & Consistency ratio & & \\
+\hline
+\end{tabular}
